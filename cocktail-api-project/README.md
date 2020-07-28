@@ -96,7 +96,7 @@ With thanks to Flexbox’s framework, the website has been tested and is success
 ****ISSUES/BUGS****
 
 ### DEPLOYMENT
-This project has been deployed from the master branch to the hosting platform, GitPages. To run locally, copy the following link into an editor: https://annaraman.github.io/Milestone-project-1/.
+This project has been deployed from the master branch to the hosting platform, GitPages. To run locally, copy the following link into an editor: https://github.com/AnnaRaman/milestone2.git.
 Deployment
 GitHub Pages
 The project was deployed to GitHub Pages using the following steps:
